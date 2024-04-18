@@ -2,6 +2,10 @@
 
 Welcome to this project. The main objective of this chatbot application is to enable its user to upload the url of any webpage and then able to ask questions in form of chat to get expected responses to the questions asked by the user.
 
+<img width="1440" alt="Screenshot 2024-03-27 at 4 05 37 AM" src="https://github.com/sameersk2k/LangChain-Chatbot/assets/115322069/2659b67b-efe9-4b74-ae73-c933a36d1f8b">
+
+<img width="1440" alt="Screenshot 2024-03-27 at 4 07 19 AM" src="https://github.com/sameersk2k/LangChain-Chatbot/assets/115322069/3dd6c6a8-1e63-406d-9a72-14b5c2a51712">
+
 # Features
 
 - Website Interaction: The chatbot uses the latest version of LangChain to interact with and extract information from various websites.
