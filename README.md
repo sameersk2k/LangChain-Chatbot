@@ -1,4 +1,4 @@
-# LangChain-Chatbot with Streamlit GUI
+# DocuGenie : LangChain-Chatbot with Streamlit GUI
 
 Welcome to this project. The main objective of this chatbot application is to enable its user to upload the url of any webpage and then able to ask questions in form of chat to get expected responses to the questions asked by the user.
 
